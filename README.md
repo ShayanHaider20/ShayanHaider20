@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am a curious, motivated and driven individual with a passion for exploring the realm of artificial intelligence, software development, and innovative problem-solving. I thrive on turning ideas into practical solutions and enjoy the process of learning and adapting to new challenges. With a collaborative mindset and a keen eye for detail, I bring enthusiasm and a fresh perspective to every project. I’m excited to contribute my skills and grow alongside a team that values creativity, innovation, and making an impact through technology.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-haider-64ba46274/) 
 
