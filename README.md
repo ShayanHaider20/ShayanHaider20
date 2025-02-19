@@ -3,21 +3,19 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://www.linkedin.com/in/shayan-haider-64ba46274/" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-         style="display: block; vertical-align: middle; background: transparent; border: none; outline: none; margin-right: 8px;" />
+  <a href="https://www.linkedin.com/in/shayan-haider-64ba46274/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="mailto:haidershayan732@gmail.com" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         style="display: block; vertical-align: middle; background: transparent; border: none; outline: none; margin-right: 8px;" />
+  &nbsp; 
+  <a href="mailto:haidershayan732@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://portfolio-git-main-haidershayan732-gmailcoms-projects.vercel.app/" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" 
-         style="display: block; vertical-align: middle; background: transparent; border: none; outline: none;" />
+  &nbsp;
+  <a href="https://portfolio-git-main-haidershayan732-gmailcoms-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 
 # 💻 Tech Stack:
 
