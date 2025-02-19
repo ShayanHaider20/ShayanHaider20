@@ -18,7 +18,6 @@ I am a curious, motivated and driven individual with a passion for exploring the
   </a>
 </p>
 
-</div>
 
 
 
