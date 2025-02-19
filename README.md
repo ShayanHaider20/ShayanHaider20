@@ -21,9 +21,9 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 
 
- ## <h1 align="center"><strong>💻 Tech Stack</strong></h1>
+ <h1 align="center"><strong>💻 Tech Stack</strong></h1>
 
-<h2 align="center"><strong>Frontend Technologies</strong></h2>
+## <h2 align="center"><strong>Frontend Technologies</strong></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
