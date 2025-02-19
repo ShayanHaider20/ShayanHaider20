@@ -4,7 +4,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
 ## 🌐 Socials:
 <p align="center">
   <a href="https://www.linkedin.com/in/shayan-haider-64ba46274/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img style="background: transparent;" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:haidershayan732@gmail.com">
