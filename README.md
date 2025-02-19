@@ -22,8 +22,6 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 ## <h1 align="center"><strong>💻 Tech Stack</strong></h1>
 
-
-<div>
 ## <h2 align="center"><strong>Frontend Technologies</strong></h2>
 
 <p align="center">
@@ -36,7 +34,6 @@ I am a curious, motivated and driven individual with a passion for exploring the
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
-</div>
 
 ## <h2 align="center"><strong>Backend Technologies</strong></h2>
 
