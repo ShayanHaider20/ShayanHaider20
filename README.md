@@ -5,8 +5,6 @@ I am a curious, motivated and driven individual with a passion for exploring the
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-haider-64ba46274/) 
 
 # 💻 Tech Stack:
-=Sure! Here's a categorized breakdown of the technologies you listed:
-
 ---
 
 ### **Frontend Development**  
