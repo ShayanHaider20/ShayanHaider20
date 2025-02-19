@@ -20,8 +20,8 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 
 
-## <h1 align="center"><strong>💻 Tech Stack</strong></h1>
-```
+## <h1 align="center"><strong>💻 Tech Stack</strong>
+
 
 ## <h2 align="center"><strong>Frontend Technologies</strong></h2>
 
@@ -98,7 +98,8 @@ I am a curious, motivated and driven individual with a passion for exploring the
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />  
 </p>
 
-```
+</h1>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShayanHaider20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
