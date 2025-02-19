@@ -3,8 +3,6 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 ## <h1 align="center"><strong> 🌐 Socials</strong></h1>
 
-## **🌐 Socials**
-
 <p align="center">
   <a href="https://www.linkedin.com/in/shayan-haider-64ba46274/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
