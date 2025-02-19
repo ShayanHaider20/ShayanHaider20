@@ -20,7 +20,8 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 
 
-## <h1 align="center"><strong>💻 Tech Stack</strong>
+## <h1 align="center"><strong>💻 Tech Stack</strong></h1>
+
 
 
 ## <h2 align="center"><strong>Frontend Technologies</strong></h2>
@@ -98,7 +99,6 @@ I am a curious, motivated and driven individual with a passion for exploring the
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />  
 </p>
 
-</h1>
 
 
 # 📊 GitHub Stats:
