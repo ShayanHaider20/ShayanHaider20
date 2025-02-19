@@ -3,10 +3,11 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://www.linkedin.com/in/shayan-haider-64ba46274/" style="margin-right: 40px;">
+  <a href="https://www.linkedin.com/in/shayan-haider-64ba46274/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:haidershayan732@gmail.com" style="margin-right: 10px;">
+  &nbsp;
+  <a href="mailto:haidershayan732@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portfolio-git-main-haidershayan732-gmailcoms-projects.vercel.app/">
