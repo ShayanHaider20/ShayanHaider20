@@ -3,7 +3,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 <div align="center">
   
-## <h1 align="center"><strong> 🌐 Socials</strong></h1>
+## <h1><strong> 🌐 Socials</strong></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shayan-haider-64ba46274/">
