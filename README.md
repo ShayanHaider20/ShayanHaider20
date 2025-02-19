@@ -103,8 +103,6 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShayanHaider20&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://activity-graph.herokuapp.com/graph?username=ShayanHaider20&theme=github-dark)
    
 
 
