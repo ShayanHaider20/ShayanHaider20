@@ -34,7 +34,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
-## <h1 align="center"><strong>Backend Technologies</strong></h1>
+## <h2 align="center"><strong>Backend Technologies</strong></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -48,7 +48,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-## <h1 align="center"><strong>Database Technologies</strong></h1>
+## <h2 align="center"><strong>Database Technologies</strong></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -57,7 +57,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
 
-## <h1 align="center"><strong>DevOps & Cloud</strong></h1>
+## <h2 align="center"><strong>DevOps & Cloud</strong></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -66,7 +66,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## <h1 align="center"><strong>Machine Learning & Data Science</strong></h1>
+## <h2 align="center"><strong>Machine Learning & Data Science</strong></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -80,7 +80,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
 </p>
 
-## <h1 align="center"><strong>Version Control & API Testing</strong></h1>
+## <h2 align="center"><strong>Version Control & API Testing</strong></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -88,7 +88,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-## <h1 align="center"><strong>Scripting, CLI & Security</strong></h1>
+## <h2 align="center"><strong>Scripting, CLI & Security</strong></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />  
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />  
