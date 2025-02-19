@@ -21,8 +21,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 
 
-<div align = "center">
-## <h1 align="center"><strong>💻 Tech Stack</strong></h1>
+ <h1 align="center"><strong>💻 Tech Stack</strong></h1>
 
 ## <h2 align="center"><strong>Frontend Technologies</strong></h2>
 
@@ -100,7 +99,6 @@ I am a curious, motivated and driven individual with a passion for exploring the
 </p>
 
 
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShayanHaider20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
