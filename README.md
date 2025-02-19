@@ -2,7 +2,17 @@
 I am a curious, motivated and driven individual with a passion for exploring the realm of artificial intelligence, software development, and innovative problem-solving. I thrive on turning ideas into practical solutions and enjoy the process of learning and adapting to new challenges. With a collaborative mindset and a keen eye for detail, I bring enthusiasm and a fresh perspective to every project. I’m excited to contribute my skills and grow alongside a team that values creativity, innovation, and making an impact through technology.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-haider-64ba46274/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shayan-haider-64ba46274/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:haidershayan732@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-git-main-haidershayan732-gmailcoms-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
