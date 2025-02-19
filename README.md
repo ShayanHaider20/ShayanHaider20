@@ -20,6 +20,7 @@ I am a curious, motivated and driven individual with a passion for exploring the
 
 
 # 💻 Tech Stack:
+## <h1 align="center"><strong>Tech Stack</strong></h1>
 
 ## <h1 align="center"><strong>Frontend Technologies</strong></h1>
 
